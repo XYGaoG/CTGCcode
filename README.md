@@ -3,7 +3,7 @@
 
 ## Introduction
 
-This repository is the implementation of [CTGC](https://arxiv.org/abs/2411.17063) (KDD'25), a self-supervised graph condensation approach designed to efficiently handle diverse downstream tasks.
+This repository is the implementation of [CTGC](https://arxiv.org/abs/2411.17063), a self-supervised graph condensation approach designed to efficiently handle diverse downstream tasks.
 
 \
 ![CTGC](fig.jpg)
